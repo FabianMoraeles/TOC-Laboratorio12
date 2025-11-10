@@ -19,3 +19,5 @@ python3 ejercicio4.py
 
 Cada programa se ejecuta desde la terminal.
 Asegúrate de tener Python 3 instalado y de estar en la carpeta del laboratorio.# TOC-Laboratorio12
+
+Link: https://youtu.be/0YRzpaatBFA
